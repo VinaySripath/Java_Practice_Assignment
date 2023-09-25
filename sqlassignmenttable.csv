@@ -1,0 +1,21 @@
+instructorCode,name,salary,jobStartYear,technologyname,instructorType,recordId,address,instructorCode,email,phone,firstLanguage,secondLanguage
+1,raj,2000,2023,computers,programming,1,rtdru,1,dtrd@gmail,90675544,english,spanish
+2,ersu,7000,2021,java,programming,2,bangalore,2,dtuyuid@gmail,906776544,english,hindi
+3,yuted,3000,2022,sql,database,3,chennai,3,testrrd@gmail,906755644,tamil,spanish
+4,rtrji,5000,2022,oracle,database,4,bangalore,4,hgfrd@gmail,90643244,hindi,english
+5,yurrtsxf,10000,2020,angular,programming,5,mumbai,5,uiytrd@gmail,90677644,english,spanish
+6,vinay,3500,2023,speaking,communication,6,mumbai,6,dtdsytrd@gmail,9063244,spanish,english
+7,ramesh,6500,2020,"soft skills",communication,7,chennai,7,jhhiurd@gmail,90656344,hindi,spanish
+8,garg,14500,2018,english,communication,8,bangalore,8,tufuytrd@gmail,90445544,english,spanish
+9,pear,21000,2014,design,infra,9,delhi,9,uyfswrd@gmail,90675554,english,spanish
+10,ramsey,2500,2022,archictecture,infra,10,delhi,10,wawerd@gmail,90633544,spanish,english
+11,deli,7000,2019,fsd,programming,11,kolkata,11,uiysdrd@gmail,90672464,french,spanish
+12,barry,3400,2023,spanish,communication,12,bangalore,12,sdrtd@gmail,906734544,spanish,kannada
+13,sam,17000,2019,java,programming,13,mumbai,13,duok@gmail,90213544,english,french
+14,brij,22500,2020,english,communication,14,kolkata,14,erwd@gmail,904534544,chinese,spanish
+15,suro,36500,2014,spanish,communication,15,delhi,15,uiguyrddtrd@gmail,86575544,japanese,english
+16,satty,4000,2022,design,infra,16,delhi,16,rftydrtbvd@gmail,342275544,english,latin
+17,arya,16000,2015,archictecture,infra,17,chennai,17,tydertd@gmail,233575544,spanish,latin
+18,toli,12000,2017,sql,database,18,mumbai,18,ghftrd@gmail,97575544,chinese,english
+19,barrow,61000,2010,fsd,programming,19,kolkata,19,hgfftd@gmail,885675544,hindi,spanish
+20,dave,41000,2014,fsd,programming,20,mumbai,20,gftyd@gmail,86675544,english,spanish
