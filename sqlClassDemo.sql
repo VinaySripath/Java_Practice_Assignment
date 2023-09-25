@@ -1,0 +1,14 @@
+create database cg;
+use cg;
+select * from employee;
+ALTER TABLE employee MODIFY mobileNumber BIGINT;
+insert into employee values(101,892775356,'Bangalore',2000,'Raghu');
+insert into employee values(102,892563455,'Chennai',3440,'erru');
+insert into employee values(103,892457652,'Bangalore',4500,'garghu');
+insert into employee values(104,893432422,'Bangalore',5000,'fuhu');
+update employee set mobileNumber = 9237732773 , location ='Delhi' where empId = 102;
+select * from employee where location ='Bangalore';
+select location,sum(salary) as Total_Salary from employee group by location;
+select location,avg(salary) as Average_Salary from employee group by location;
+select * from employee where location like 'D%';
+delete from employee where empId=101;
